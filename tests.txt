@@ -1,0 +1,8 @@
+create 1 dragonfly
+create 2 batman
+create 3 dragonfly
+create 4 batman
+migrate 1 dragonfly batman
+migrate 1 batman dragonfly
+migrate 2 batman dragonfly
+migrate 4 batman dragonfly
